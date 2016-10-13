@@ -1,0 +1,1039 @@
+Abnormal Psychology_2014	Online:53	OnCampus:920
+Abnormal Psychology_2015	Online:51	OnCampus:822
+Abnormal Psychology_2016	Online:9	OnCampus:455
+Administ/Managemt_2015	Online:16	OnCampus:21
+Administ/Managemt_2016	Online:14	OnCampus:0
+Adolesnt Wrtng Across Cur_2013	Online:48	OnCampus:46
+Adolesnt Wrtng Across Cur_2014	Online:70	OnCampus:28
+Adolesnt Wrtng Across Cur_2015	Online:65	OnCampus:18
+Adolesnt Wrtng Across Cur_2016	Online:22	OnCampus:10
+Adult Clin Prac Sem I_2014	Online:1	OnCampus:3
+Adv DNP Clinical Prac II_2015	Online:1	OnCampus:42
+Adv DNP Clinical Prac II_2016	Online:0	OnCampus:6
+Adv Qual Res Meth_2014	Online:1	OnCampus:5
+Adv Qual Res Meth_2015	Online:0	OnCampus:9
+Adv Qual Res Meth_2016	Online:0	OnCampus:0
+Adv Stand Research_2011	Online:14	OnCampus:47
+Adv Stand Research_2012	Online:15	OnCampus:44
+Adv Stand Research_2013	Online:18	OnCampus:59
+Adv Stand Research_2015	Online:6	OnCampus:59
+Adv Stand Research_2016	Online:10	OnCampus:15
+Adv Statistical Technique_2015	Online:0	OnCampus:7
+Adv Statistical Technique_2016	Online:1	OnCampus:12
+Adv Theory Const & Devel_2015	Online:1	OnCampus:7
+Advanced Design Theory_2012	Online:0	OnCampus:17
+Advanced Design Theory_2013	Online:4	OnCampus:9
+Advanced Design Theory_2014	Online:1	OnCampus:12
+Advanced Design Theory_2015	Online:5	OnCampus:2
+Advanced Design Theory_2016	Online:2	OnCampus:0
+Advanced Standing Seminar_2011	Online:10	OnCampus:50
+Advanced Standing Seminar_2015	Online:17	OnCampus:50
+Advanced Standing Seminar_2016	Online:10	OnCampus:14
+Aging Population & Family_2016	Online:23	OnCampus:0
+Analog Circuits_2014	Online:7	OnCampus:61
+Analysis/Quantitv Rsrch 2_2014	Online:13	OnCampus:17
+Appl Child Devl&Learning_2016	Online:0	OnCampus:40
+Assess MH Counseling_2013	Online:14	OnCampus:16
+Assess MH Counseling_2014	Online:17	OnCampus:16
+Assess MH Counseling_2015	Online:20	OnCampus:13
+Assess MH Counseling_2016	Online:19	OnCampus:13
+Assess Sec Lang Profency_2013	Online:4	OnCampus:32
+Bankruptcy Law_2005	Online:30	OnCampus:53
+Bankruptcy Law_2006	Online:52	OnCampus:15
+Bankruptcy Law_2007	Online:47	OnCampus:23
+Bankruptcy Law_2008	Online:47	OnCampus:15
+Bankruptcy Law_2009	Online:35	OnCampus:29
+Bankruptcy Law_2010	Online:56	OnCampus:20
+Bankruptcy Law_2011	Online:56	OnCampus:1
+Basic Real Estate Law_2009	Online:0	OnCampus:74
+Basic Real Estate Law_2010	Online:1	OnCampus:63
+Basic Real Estate Law_2012	Online:19	OnCampus:29
+Basic Real Estate Law_2013	Online:4	OnCampus:21
+Basic Real Estate Law_2014	Online:78	OnCampus:11
+Basic Real Estate Law_2015	Online:78	OnCampus:12
+Basic Real Estate Law_2016	Online:30	OnCampus:10
+Bible As Lit_2015	Online:14	OnCampus:30
+Bible As Lit_2016	Online:2	OnCampus:21
+Biomedical Microbiology_2016	Online:56	OnCampus:303
+Biopsychology_2014	Online:29	OnCampus:927
+Biopsychology_2015	Online:43	OnCampus:968
+Biopsychology_2016	Online:5	OnCampus:545
+Bridge Engineering 1_2011	Online:1	OnCampus:9
+Capstone Course I_2013	Online:1	OnCampus:0
+Career Development_2014	Online:40	OnCampus:35
+Career Development_2015	Online:48	OnCampus:26
+Career Development_2016	Online:42	OnCampus:0
+Career Planning_2012	Online:147	OnCampus:882
+Career Planning_2013	Online:197	OnCampus:986
+Career Planning_2014	Online:184	OnCampus:965
+Career Planning_2015	Online:149	OnCampus:992
+Career Planning_2016	Online:70	OnCampus:467
+Case Studies in Biology_2005	Online:20	OnCampus:0
+Child Abuse/Neglect_2015	Online:16	OnCampus:36
+Collection Development_2010	Online:30	OnCampus:31
+Collection Development_2011	Online:19	OnCampus:29
+Collection Development_2012	Online:23	OnCampus:25
+Collection Development_2013	Online:29	OnCampus:11
+Collection Development_2014	Online:55	OnCampus:13
+Collection Development_2015	Online:16	OnCampus:2
+Collection Development_2016	Online:26	OnCampus:3
+College Calculus 1_2015	Online:168	OnCampus:3202
+College Calculus 1_2016	Online:268	OnCampus:666
+College Calculus 2_2015	Online:201	OnCampus:2903
+College Calculus 2_2016	Online:144	OnCampus:1960
+College Calculus 3_2016	Online:6	OnCampus:856
+College Physics_2011	Online:242	OnCampus:3238
+College Physics_2012	Online:292	OnCampus:3366
+College Physics_2013	Online:394	OnCampus:3486
+College Physics_2014	Online:535	OnCampus:3429
+College Physics_2015	Online:650	OnCampus:3336
+College Physics_2016	Online:400	OnCampus:1570
+Communication Theory_2012	Online:40	OnCampus:443
+Communication Theory_2013	Online:42	OnCampus:467
+Communication Theory_2014	Online:45	OnCampus:491
+Communication in Organization_2013	Online:39	OnCampus:595
+Communication in Organization_2016	Online:48	OnCampus:249
+Community Social Work_2015	Online:12	OnCampus:26
+Community Social Work_2016	Online:10	OnCampus:9
+Computer Applic in Slmc_2005	Online:40	OnCampus:55
+Computer Applic in Slmc_2008	Online:50	OnCampus:6
+Computer Applic in Slmc_2011	Online:32	OnCampus:11
+Computer Bus. Apps. 2_2005	Online:12	OnCampus:12
+Computer Bus. Apps. 2_2006	Online:39	OnCampus:0
+Computer Bus. Apps. 2_2007	Online:29	OnCampus:0
+Constitutional Law_2014	Online:23	OnCampus:116
+Constitutional Law_2015	Online:18	OnCampus:153
+Constitutional Law_2016	Online:17	OnCampus:98
+Contemporary Literature_2014	Online:19	OnCampus:11
+Contemporary Literature_2015	Online:30	OnCampus:14
+Counseling Practicum_2012	Online:10	OnCampus:27
+Counseling Practicum_2014	Online:16	OnCampus:24
+Counseling Practicum_2015	Online:16	OnCampus:26
+Counseling Practicum_2016	Online:0	OnCampus:27
+Crisis Intervention_2015	Online:15	OnCampus:19
+Crisis Intervention_2016	Online:20	OnCampus:0
+Critical Thinking_2015	Online:27	OnCampus:173
+Critical Thinking_2016	Online:12	OnCampus:104
+Criticism_2016	Online:1	OnCampus:53
+Cur Instrct Fndtns Mus Ed_2011	Online:21	OnCampus:0
+Curric Role of Media Spec_2008	Online:21	OnCampus:20
+Curric Role of Media Spec_2009	Online:27	OnCampus:16
+Curric Role of Media Spec_2010	Online:17	OnCampus:22
+Data Base Mgt Systems_2007	Online:0	OnCampus:0
+Data Communicatin/Network_2005	Online:17	OnCampus:9
+Data Communicatin/Network_2006	Online:35	OnCampus:0
+Data Communicatin/Network_2007	Online:39	OnCampus:0
+Database Systems_2014	Online:7	OnCampus:151
+Design & Test Interventns_2015	Online:0	OnCampus:9
+Design & Test Interventns_2016	Online:1	OnCampus:1
+Design Project_2014	Online:0	OnCampus:320
+Dietary Supplements_2005	Online:24	OnCampus:52
+Digital Info Retrieval_2011	Online:14	OnCampus:28
+Digital Internetworking_2005	Online:17	OnCampus:28
+Digital Libraries_2015	Online:18	OnCampus:4
+Dissertation Seminar_2009	Online:11	OnCampus:13
+Dissertation Seminar_2014	Online:6	OnCampus:7
+Dissertation Seminar_2015	Online:5	OnCampus:7
+Diversity and Oppression_2014	Online:21	OnCampus:145
+Diversity and Oppression_2015	Online:40	OnCampus:122
+Diversity and Oppression_2016	Online:15	OnCampus:163
+Doc Dissertation Guidance_2014	Online:2	OnCampus:23
+Doc Dissertation Guidance_2015	Online:1	OnCampus:22
+Doc Dissertation Guidance_2016	Online:0	OnCampus:10
+Dual Disorders_2013	Online:48	OnCampus:33
+Dual Disorders_2014	Online:51	OnCampus:45
+Dual Disorders_2015	Online:44	OnCampus:38
+Dual Disorders_2016	Online:21	OnCampus:10
+Dynamics of Internat Bus_2015	Online:24	OnCampus:201
+Dynamics of Internat Bus_2016	Online:5	OnCampus:83
+Early Childhood Ed Th& Pr_2013	Online:10	OnCampus:18
+Early Childhood Theory & Pract_2013	Online:31	OnCampus:53
+Early Childhood Theory & Pract_2014	Online:61	OnCampus:53
+Early Childhood Theory & Pract_2015	Online:56	OnCampus:45
+Early Childhood Theory & Pract_2016	Online:25	OnCampus:20
+Earth Systems Science_2016	Online:4	OnCampus:201
+Economics of Education_2014	Online:32	OnCampus:64
+Educational Psychology_2013	Online:18	OnCampus:152
+Educational Psychology_2014	Online:81	OnCampus:148
+Educational Psychology_2015	Online:146	OnCampus:104
+Educational Psychology_2016	Online:78	OnCampus:42
+Educational Uses of Internet_2012	Online:12	OnCampus:7
+Effect of Mass Com_2013	Online:46	OnCampus:154
+Electrical Devices_2014	Online:1	OnCampus:46
+Engineering Economy_2016	Online:18	OnCampus:144
+Engineering Principles_2014	Online:9	OnCampus:1359
+Engineering Principles_2015	Online:72	OnCampus:1479
+Entrepreneurship & Sm Bus_2005	Online:35	OnCampus:71
+Entrepreneurship & Sm Bus_2006	Online:94	OnCampus:79
+Entrepreneurship & Sm Bus_2007	Online:104	OnCampus:88
+Entrepreneurship & Sm Bus_2008	Online:117	OnCampus:108
+Entrepreneurship & Sm Bus_2009	Online:92	OnCampus:89
+Entrepreneurship & Sm Bus_2010	Online:94	OnCampus:118
+Entrepreneurship & Sm Bus_2011	Online:101	OnCampus:120
+Entrepreneurship & Sm Bus_2012	Online:134	OnCampus:69
+Entrepreneurship & Sm Bus_2013	Online:158	OnCampus:51
+Entrepreneurship & Sm Bus_2014	Online:144	OnCampus:33
+Entrepreneurship & Sm Bus_2015	Online:139	OnCampus:72
+Entrepreneurship & Sm Bus_2016	Online:77	OnCampus:33
+Environmental Politics_2014	Online:10	OnCampus:32
+Environmental Politics_2015	Online:16	OnCampus:31
+Essen. of Acad. Writing_2010	Online:11	OnCampus:47
+Essen. of Acad. Writing_2011	Online:29	OnCampus:38
+Essen. of Acad. Writing_2012	Online:22	OnCampus:19
+Ethics Health Prof_2013	Online:15	OnCampus:25
+Ethics_2011	Online:25	OnCampus:463
+Ethics_2012	Online:35	OnCampus:382
+Ethics_2013	Online:39	OnCampus:343
+Ethics_2014	Online:25	OnCampus:491
+Ethics_2015	Online:53	OnCampus:312
+Ethics_2016	Online:22	OnCampus:141
+Eval Res Evid II_2013	Online:101	OnCampus:19
+Eval Res Evid II_2016	Online:57	OnCampus:0
+Eval Res Evid I_2015	Online:100	OnCampus:27
+Eval Res Evid I_2016	Online:62	OnCampus:0
+Evaluation in Social Work_2012	Online:22	OnCampus:126
+Evaluation in Social Work_2013	Online:15	OnCampus:121
+Evaluation in Social Work_2014	Online:24	OnCampus:146
+Evaluation in Social Work_2015	Online:25	OnCampus:146
+Evaluation in Social Work_2016	Online:20	OnCampus:174
+Evdnce Bsd Prac & Nur Research_2010	Online:94	OnCampus:98
+Evdnce Bsd Prac & Nur Research_2012	Online:14	OnCampus:120
+Evdnce Bsd Prac & Nur Research_2013	Online:22	OnCampus:125
+Evdnce Bsd Prac & Nur Research_2014	Online:27	OnCampus:129
+Evdnce Bsd Prac & Nur Research_2015	Online:35	OnCampus:113
+Evdnce Bsd Prac & Nur Research_2016	Online:0	OnCampus:41
+Ex Assess Pres Prog 1_2015	Online:117	OnCampus:234
+Ex Assess Pres Prog 1_2016	Online:111	OnCampus:222
+Family Nursing_2012	Online:20	OnCampus:120
+Family Nursing_2013	Online:29	OnCampus:134
+Family Nursing_2014	Online:27	OnCampus:123
+Family Nursing_2015	Online:39	OnCampus:126
+Family Nursing_2016	Online:12	OnCampus:28
+Field Instruction 1_2010	Online:13	OnCampus:131
+Field Instruction 2_2010	Online:8	OnCampus:119
+Field Instruction 2_2011	Online:21	OnCampus:109
+Field Work_2014	Online:30	OnCampus:26
+Field Work_2015	Online:26	OnCampus:26
+Field Work_2016	Online:22	OnCampus:0
+Film & Media History II_2010	Online:25	OnCampus:105
+Film & Media History II_2011	Online:26	OnCampus:76
+Film & Media History II_2012	Online:17	OnCampus:45
+Film & Media History II_2013	Online:22	OnCampus:29
+Film & Media History II_2015	Online:25	OnCampus:31
+Finite Element Struc Anal_2014	Online:3	OnCampus:47
+Fitness & Conditioning_2015	Online:83	OnCampus:811
+Fitness & Conditioning_2016	Online:106	OnCampus:174
+Foundat of Counsel Theory_2013	Online:19	OnCampus:52
+Foundat of Counsel Theory_2014	Online:30	OnCampus:44
+Foundat of Counsel Theory_2015	Online:26	OnCampus:53
+Foundat of Counsel Theory_2016	Online:0	OnCampus:0
+Foundation Seminar 1_2011	Online:12	OnCampus:143
+Foundation Seminar 1_2012	Online:15	OnCampus:140
+Foundation Seminar 2_2012	Online:11	OnCampus:130
+Foundation Seminar 2_2013	Online:15	OnCampus:126
+Fund of Bio Chemistry_2014	Online:40	OnCampus:553
+Fund of Chemical Eng_2015	Online:44	OnCampus:226
+Fund of Chemical Eng_2016	Online:12	OnCampus:0
+Fundamentals of Educ Res_2012	Online:27	OnCampus:18
+Fundamentals of Educ Res_2014	Online:15	OnCampus:10
+Fundamentals of Educ Res_2015	Online:0	OnCampus:16
+General Physics 1_2011	Online:98	OnCampus:1934
+General Physics 1_2012	Online:154	OnCampus:1720
+General Physics 1_2013	Online:127	OnCampus:2293
+General Physics 1_2014	Online:203	OnCampus:2343
+General Physics 1_2015	Online:247	OnCampus:2359
+General Physics 1_2016	Online:79	OnCampus:1845
+General Physics 2_2011	Online:76	OnCampus:1340
+General Physics 2_2012	Online:92	OnCampus:1468
+General Physics 2_2013	Online:97	OnCampus:1739
+General Physics 2_2014	Online:143	OnCampus:1651
+General Physics 2_2015	Online:196	OnCampus:1706
+General Physics 2_2016	Online:92	OnCampus:470
+Genetics_2014	Online:44	OnCampus:180
+Genetics_2015	Online:58	OnCampus:294
+Genetics_2016	Online:20	OnCampus:184
+Genres of Music_2012	Online:29	OnCampus:309
+Genres of Music_2013	Online:71	OnCampus:353
+Genres of Music_2014	Online:41	OnCampus:375
+Genres of Music_2015	Online:33	OnCampus:143
+Genres of Music_2016	Online:71	OnCampus:26
+Global Econ Geographies_2013	Online:22	OnCampus:209
+Global Econ Geographies_2014	Online:13	OnCampus:213
+Global Econ Geographies_2015	Online:27	OnCampus:185
+Global Econ Geographies_2016	Online:4	OnCampus:111
+Government Information_2011	Online:16	OnCampus:21
+Government Information_2012	Online:32	OnCampus:9
+Graduate Research Ethics_2007	Online:33	OnCampus:38
+Graduate Research Ethics_2008	Online:0	OnCampus:71
+Graduate Research Ethics_2009	Online:38	OnCampus:29
+Graduate Research Ethics_2011	Online:9	OnCampus:46
+Graduate Research Ethics_2012	Online:0	OnCampus:37
+Graduate Research Ethics_2013	Online:24	OnCampus:32
+Health & Disability SW_2015	Online:11	OnCampus:23
+Health Law_2005	Online:51	OnCampus:37
+Health Law_2006	Online:49	OnCampus:39
+Health Law_2007	Online:51	OnCampus:36
+Health Law_2008	Online:50	OnCampus:37
+Health Law_2009	Online:49	OnCampus:42
+Health Law_2010	Online:25	OnCampus:36
+Health Promotion_2011	Online:64	OnCampus:140
+Health Promotion_2012	Online:94	OnCampus:94
+Health Promotion_2013	Online:113	OnCampus:84
+Health Promotion_2014	Online:145	OnCampus:70
+Health Promotion_2015	Online:154	OnCampus:74
+Health Promotion_2016	Online:13	OnCampus:7
+High Voltage Engineering_2014	Online:1	OnCampus:44
+High Voltage Engineering_2015	Online:0	OnCampus:38
+High Voltage Engineering_2016	Online:0	OnCampus:0
+Hist & Phil of Sci Tchrs_2014	Online:0	OnCampus:7
+History and Policy_2012	Online:14	OnCampus:156
+History and Policy_2013	Online:18	OnCampus:146
+History and Policy_2014	Online:28	OnCampus:141
+History and Policy_2015	Online:30	OnCampus:172
+History and Policy_2016	Online:26	OnCampus:43
+Hlth Care Sys Pol & Eth_2010	Online:74	OnCampus:37
+Honors Internship_2014	Online:2	OnCampus:33
+Honors Internship_2015	Online:3	OnCampus:30
+Honors Internship_2016	Online:0	OnCampus:27
+Human Computer Interactn_2014	Online:7	OnCampus:15
+Human Computer Interactn_2015	Online:1	OnCampus:15
+Human Computer Interactn_2016	Online:0	OnCampus:0
+Human Factors in Safety_2013	Online:5	OnCampus:32
+Human Factors in Safety_2014	Online:13	OnCampus:83
+Human Factors in Safety_2015	Online:6	OnCampus:62
+Human Factors in Safety_2016	Online:0	OnCampus:91
+Human Form and Function_2013	Online:212	OnCampus:466
+Human Form and Function_2014	Online:469	OnCampus:469
+Human Form and Function_2015	Online:479	OnCampus:479
+Human Form and Function_2016	Online:169	OnCampus:169
+Human Growth & Development_2012	Online:61	OnCampus:56
+Human Growth & Development_2013	Online:92	OnCampus:46
+Human Growth & Development_2014	Online:81	OnCampus:24
+Human Growth & Development_2015	Online:47	OnCampus:23
+Human Growth & Development_2016	Online:43	OnCampus:0
+Human Info Proc_2014	Online:2	OnCampus:15
+Human Info Proc_2016	Online:0	OnCampus:12
+Human Nutrition_2012	Online:89	OnCampus:1860
+Human Nutrition_2013	Online:265	OnCampus:1809
+Human Nutrition_2014	Online:273	OnCampus:1806
+Human Nutrition_2015	Online:291	OnCampus:1794
+Human Nutrition_2016	Online:139	OnCampus:786
+Human-Computer Interactn_2014	Online:0	OnCampus:26
+Human-Computer Interactn_2015	Online:2	OnCampus:17
+Human-Computer Interactn_2016	Online:1	OnCampus:0
+Immigration and Film_2011	Online:26	OnCampus:137
+Immigration and Film_2012	Online:51	OnCampus:150
+Immigration and Film_2013	Online:65	OnCampus:120
+Immigration and Film_2014	Online:30	OnCampus:120
+Immigration and Film_2015	Online:28	OnCampus:88
+Imprvg Soc Stud Inst Elem_2016	Online:13	OnCampus:0
+Independent Study_2012	Online:0	OnCampus:841
+Independent Study_2013	Online:17	OnCampus:765
+Independent Study_2014	Online:0	OnCampus:700
+Independent Study_2015	Online:1	OnCampus:616
+Independent Study_2016	Online:5	OnCampus:367
+Indiv Guidance Project_2014	Online:26	OnCampus:46
+Indiv Guidance Project_2015	Online:24	OnCampus:39
+Indiv Guidance Project_2016	Online:1	OnCampus:6
+Indiv Guidnc Capstn Event_2007	Online:18	OnCampus:116
+Indiv Guidnc Capstn Event_2008	Online:0	OnCampus:122
+Indiv Guidnc Capstn Event_2009	Online:14	OnCampus:86
+Indiv Guidnc Capstn Event_2010	Online:0	OnCampus:79
+Indiv Guidnc Capstn Event_2011	Online:0	OnCampus:88
+Indiv Guidnc Capstn Event_2012	Online:3	OnCampus:83
+Indiv Guidnc Capstn Event_2013	Online:1	OnCampus:55
+Indiv Guidnc Capstn Event_2014	Online:11	OnCampus:48
+Indiv Guidnc Capstn Event_2015	Online:9	OnCampus:38
+Indiv Guidnc Capstn Event_2016	Online:7	OnCampus:24
+Indiv Guidnc Thesis_2012	Online:23	OnCampus:9
+Indiv Guidnc Thesis_2013	Online:42	OnCampus:2
+Indiv Guidnc Thesis_2014	Online:21	OnCampus:22
+Indiv Guidnc Thesis_2015	Online:8	OnCampus:13
+Indiv Guidnc Thesis_2016	Online:1	OnCampus:10
+Info Sources in Sciences_2013	Online:9	OnCampus:6
+Info Tech Hlthcre Edu Lab_2015	Online:0	OnCampus:4
+Info Tech Hlthcre Edu Lab_2016	Online:0	OnCampus:0
+Info and Health Care Envnt_2012	Online:14	OnCampus:27
+Info and Health Care Envnt_2013	Online:23	OnCampus:108
+Info and Health Care Envnt_2014	Online:27	OnCampus:129
+Info and Health Care Envnt_2015	Online:40	OnCampus:126
+Info and Health Care Envnt_2016	Online:12	OnCampus:80
+Info and Hlth Care Envnt_2006	Online:0	OnCampus:124
+Info and Hlth Care Envnt_2007	Online:25	OnCampus:125
+Info and Hlth Care Envnt_2008	Online:25	OnCampus:139
+Info and Hlth Care Envnt_2009	Online:37	OnCampus:135
+Info and Hlth Care Envnt_2010	Online:28	OnCampus:125
+Information Organization_2008	Online:25	OnCampus:76
+Information Organization_2009	Online:44	OnCampus:92
+Information Organization_2011	Online:22	OnCampus:122
+Information Organization_2012	Online:39	OnCampus:91
+Information Organization_2013	Online:76	OnCampus:12
+Information Organization_2014	Online:87	OnCampus:15
+Information Organization_2016	Online:80	OnCampus:0
+Information Technology_2015	Online:0	OnCampus:5
+Information Technology_2016	Online:0	OnCampus:0
+Instructl Stratgs Inc Cls_2015	Online:9	OnCampus:17
+Instructl Stratgs Inc Cls_2016	Online:0	OnCampus:0
+Intellectual Freedom_2013	Online:7	OnCampus:5
+Intellectual Freedom_2015	Online:11	OnCampus:1
+Interm Local Area Network_2005	Online:13	OnCampus:29
+International Bus Cultures_2013	Online:26	OnCampus:156
+International Bus Cultures_2014	Online:73	OnCampus:137
+International Bus Cultures_2015	Online:52	OnCampus:287
+International Bus Cultures_2016	Online:29	OnCampus:156
+International Trade_2013	Online:12	OnCampus:199
+International Trade_2014	Online:36	OnCampus:167
+International Trade_2015	Online:39	OnCampus:245
+International Trade_2016	Online:6	OnCampus:83
+Internship_2013	Online:19	OnCampus:234
+Internship_2014	Online:37	OnCampus:257
+Internship_2015	Online:64	OnCampus:245
+Internship_2016	Online:30	OnCampus:147
+Interpretive Phenomenology_2014	Online:2	OnCampus:6
+Interpretive Phenomenology_2016	Online:0	OnCampus:1
+Interventions 1_2014	Online:17	OnCampus:295
+Interventions 1_2015	Online:58	OnCampus:326
+Interventions 1_2016	Online:0	OnCampus:0
+Interventions II_2016	Online:26	OnCampus:157
+Interventions W/Adults_2015	Online:15	OnCampus:30
+Interventions W/Adults_2016	Online:4	OnCampus:10
+Interventions W/Families_2015	Online:10	OnCampus:30
+Interventions W/Families_2016	Online:16	OnCampus:3
+Interventions W/Groups_2015	Online:9	OnCampus:3
+Intro American Politics_2013	Online:57	OnCampus:394
+Intro American Politics_2014	Online:41	OnCampus:348
+Intro American Politics_2015	Online:32	OnCampus:323
+Intro American Politics_2016	Online:29	OnCampus:209
+Intro American Studies_2012	Online:26	OnCampus:49
+Intro American Studies_2013	Online:25	OnCampus:45
+Intro American Studies_2014	Online:28	OnCampus:63
+Intro American Studies_2016	Online:5	OnCampus:9
+Intro Bus & Prof Communic_2012	Online:33	OnCampus:323
+Intro Bus & Prof Communic_2013	Online:82	OnCampus:295
+Intro Bus & Prof Communic_2014	Online:70	OnCampus:274
+Intro Computer & Info Sys_2014	Online:146	OnCampus:39
+Intro Computer & Info Sys_2015	Online:133	OnCampus:22
+Intro Computer & Info Sys_2016	Online:76	OnCampus:25
+Intro Counseling_2011	Online:40	OnCampus:174
+Intro Counseling_2012	Online:70	OnCampus:176
+Intro Counseling_2013	Online:233	OnCampus:163
+Intro Counseling_2014	Online:309	OnCampus:118
+Intro Counseling_2015	Online:353	OnCampus:100
+Intro Counseling_2016	Online:198	OnCampus:28
+Intro Film & Media Interp_2013	Online:21	OnCampus:68
+Intro Film & Media Interp_2014	Online:29	OnCampus:31
+Intro Gender & Wmn Studies_2014	Online:15	OnCampus:101
+Intro Gender & Wmn Studies_2015	Online:10	OnCampus:93
+Intro Gender & Wmn Studies_2016	Online:1	OnCampus:47
+Intro Internat Politics_2014	Online:13	OnCampus:194
+Intro Internat Politics_2015	Online:69	OnCampus:174
+Intro Internat Politics_2016	Online:1	OnCampus:83
+Intro Rehab Sub Abuse Add_2012	Online:110	OnCampus:45
+Intro Rehab Sub Abuse Add_2013	Online:228	OnCampus:45
+Intro Rehab Sub Abuse Add_2014	Online:264	OnCampus:44
+Intro Rehab Sub Abuse Add_2015	Online:298	OnCampus:40
+Intro Rehab Sub Abuse Add_2016	Online:202	OnCampus:20
+Intro Rehab Sub Abuse_2014	Online:7	OnCampus:22
+Intro Rehab Sub Abuse_2015	Online:7	OnCampus:13
+Intro Rehab Sub Abuse_2016	Online:5	OnCampus:0
+Intro Research in Music Ed_2013	Online:7	OnCampus:1
+Intro Telecommunications_2005	Online:35	OnCampus:30
+Intro Telecommunications_2006	Online:67	OnCampus:0
+Intro Telecommunications_2007	Online:70	OnCampus:0
+Intro Telecommunications_2008	Online:70	OnCampus:0
+Intro Telecommunications_2009	Online:68	OnCampus:0
+Intro Writ Poetry/Fiction_2013	Online:9	OnCampus:102
+Intro Writ Poetry/Fiction_2014	Online:9	OnCampus:101
+Intro Writ Poetry/Fiction_2015	Online:20	OnCampus:76
+Intro Writ Poetry/Fiction_2016	Online:1	OnCampus:48
+Intro to Archives Mgt_2015	Online:28	OnCampus:8
+Intro to Archives Mgt_2016	Online:18	OnCampus:2
+Intro to CISL_2014	Online:24	OnCampus:46
+Intro to CISL_2015	Online:18	OnCampus:7
+Intro to CISL_2016	Online:18	OnCampus:10
+Intro to Child Dev&Learn_2013	Online:6	OnCampus:10
+Intro to Child Development_2013	Online:39	OnCampus:58
+Intro to Child Development_2016	Online:53	OnCampus:32
+Intro to Comparative Politics_2013	Online:17	OnCampus:134
+Intro to Comparative Politics_2016	Online:12	OnCampus:83
+Intro to Educ Tech_2013	Online:8	OnCampus:6
+Intro to Educ Tech_2014	Online:13	OnCampus:0
+Intro to Feminist Theory_2016	Online:0	OnCampus:16
+Intro to Grief & Loss_2015	Online:355	OnCampus:35
+Intro to Grief & Loss_2016	Online:169	OnCampus:35
+Intro to Hlth & Hum Srvcs_2005	Online:70	OnCampus:360
+Intro to Hlth & Hum Srvcs_2006	Online:70	OnCampus:355
+Intro to Hlth & Hum Srvcs_2007	Online:73	OnCampus:360
+Intro to Hlth & Hum Srvcs_2008	Online:73	OnCampus:364
+Intro to Hlth & Hum Srvcs_2009	Online:82	OnCampus:366
+Intro to Hlth & Hum Srvcs_2010	Online:87	OnCampus:333
+Intro to Hlth & Hum Srvcs_2011	Online:30	OnCampus:348
+Intro to Hlth & Hum Srvcs_2012	Online:60	OnCampus:332
+Intro to Hlth & Hum Srvcs_2013	Online:89	OnCampus:327
+Intro to Hlth & Hum Srvcs_2014	Online:103	OnCampus:329
+Intro to Hlth & Hum Srvcs_2015	Online:107	OnCampus:325
+Intro to Hlth & Hum Srvcs_2016	Online:56	OnCampus:120
+Intro to Info Technology_2006	Online:34	OnCampus:99
+Intro to Info Technology_2010	Online:23	OnCampus:134
+Intro to Info Technology_2011	Online:54	OnCampus:148
+Intro to Info Technology_2012	Online:39	OnCampus:46
+Intro to Info Technology_2013	Online:67	OnCampus:21
+Intro to Info Technology_2014	Online:110	OnCampus:16
+Intro to Info Technology_2015	Online:102	OnCampus:4
+Intro to Info Technology_2016	Online:32	OnCampus:0
+Intro to Library & Info Study_2007	Online:60	OnCampus:73
+Intro to Library & Info Study_2008	Online:44	OnCampus:87
+Intro to Library & Info Study_2010	Online:36	OnCampus:137
+Intro to Library & Info Study_2011	Online:53	OnCampus:119
+Intro to Library & Info Study_2012	Online:74	OnCampus:45
+Intro to Library & Info Study_2013	Online:74	OnCampus:18
+Intro to Library & Info Study_2014	Online:118	OnCampus:16
+Intro to Library & Info Study_2015	Online:94	OnCampus:9
+Intro to Library & Info Study_2016	Online:35	OnCampus:0
+Intro to Linux_2007	Online:40	OnCampus:0
+Intro to Philosophy_2012	Online:26	OnCampus:574
+Intro to Philosophy_2013	Online:40	OnCampus:622
+Intro to Philosophy_2014	Online:25	OnCampus:504
+Intro to Philosophy_2015	Online:25	OnCampus:495
+Intro to Philosophy_2016	Online:27	OnCampus:129
+Intro to Rehabilitation_2014	Online:35	OnCampus:34
+Intro to Rehabilitation_2015	Online:74	OnCampus:33
+Intro to Rehabilitation_2016	Online:38	OnCampus:31
+Introduction to C++_2005	Online:11	OnCampus:24
+Introduction to DSP_2014	Online:0	OnCampus:75
+Introduction to DSP_2015	Online:0	OnCampus:76
+Introduction to DSP_2016	Online:28	OnCampus:0
+Introduction to Education_2013	Online:24	OnCampus:172
+Introduction to Education_2014	Online:23	OnCampus:128
+Introduction to Education_2015	Online:44	OnCampus:108
+Introduction to Education_2016	Online:30	OnCampus:41
+Introduction to Group Work_2013	Online:38	OnCampus:46
+Introduction to Group Work_2014	Online:54	OnCampus:34
+Introduction to Group Work_2015	Online:50	OnCampus:32
+Introduction to Group Work_2016	Online:42	OnCampus:42
+Introduction to Media Analysis_2011	Online:11	OnCampus:0
+Introduction to Media Analysis_2012	Online:10	OnCampus:79
+Introduction to Media Analysis_2013	Online:7	OnCampus:76
+Introduction to Perl_2005	Online:23	OnCampus:26
+Introduction to Sociology_2010	Online:64	OnCampus:1452
+Introduction to Sociology_2012	Online:117	OnCampus:1631
+Introduction to Sociology_2013	Online:141	OnCampus:1483
+Introduction to Sociology_2014	Online:105	OnCampus:1331
+Introduction to Sociology_2015	Online:105	OnCampus:1132
+Introduction to Sociology_2016	Online:40	OnCampus:569
+Introduction to the Internet_2006	Online:50	OnCampus:228
+Introduction to the Internet_2010	Online:99	OnCampus:68
+Introduction to the Internet_2011	Online:165	OnCampus:126
+Introduction to the Internet_2012	Online:149	OnCampus:192
+Introduction to the Internet_2013	Online:150	OnCampus:206
+Introduction to the Internet_2014	Online:140	OnCampus:206
+Introduction to the Internet_2015	Online:176	OnCampus:183
+Introduction to the Internet_2016	Online:50	OnCampus:73
+Introductory Psychology_2005	Online:52	OnCampus:3200
+Introductory Psychology_2006	Online:99	OnCampus:3148
+Introductory Psychology_2007	Online:106	OnCampus:3081
+Introductory Psychology_2008	Online:113	OnCampus:3251
+Introductory Psychology_2009	Online:107	OnCampus:3234
+Introductory Psychology_2010	Online:0	OnCampus:3181
+Introductory Psychology_2015	Online:82	OnCampus:3508
+Introductory Psychology_2016	Online:88	OnCampus:1356
+Intrprtng Hlth Cre Policy_2011	Online:57	OnCampus:13
+Intrprtng Hlth Cre Policy_2012	Online:30	OnCampus:23
+Java Script_2005	Online:16	OnCampus:0
+Judicial Politics_2016	Online:35	OnCampus:0
+Language Arts Methods_2015	Online:24	OnCampus:29
+Language Arts Methods_2016	Online:0	OnCampus:11
+Lean Enterprise_2013	Online:0	OnCampus:11
+Lean Enterprise_2014	Online:11	OnCampus:73
+Lean Enterprise_2015	Online:3	OnCampus:80
+Lean Enterprise_2016	Online:0	OnCampus:101
+Legal Research & Writing_2005	Online:19	OnCampus:42
+Legal Research & Writing_2006	Online:41	OnCampus:10
+Legal Research & Writing_2007	Online:33	OnCampus:5
+Legal Research & Writing_2008	Online:25	OnCampus:1
+Legal Research & Writing_2009	Online:43	OnCampus:0
+Legal Research & Writing_2010	Online:56	OnCampus:0
+Legal Research & Writing_2011	Online:58	OnCampus:0
+Legal/Ethical Counseling_2012	Online:20	OnCampus:17
+Legal/Ethical Counseling_2013	Online:17	OnCampus:16
+Legal/Ethical Counseling_2014	Online:27	OnCampus:12
+Legal/Ethical Counseling_2015	Online:24	OnCampus:12
+Legal/Ethical Counseling_2016	Online:1	OnCampus:12
+Liability Iss in Public Ed_2008	Online:106	OnCampus:9
+Liability Iss in Public Ed_2009	Online:86	OnCampus:0
+Liability Iss in Public Ed_2010	Online:80	OnCampus:85
+Liability Iss in Public Ed_2011	Online:68	OnCampus:94
+Liability Iss in Public Ed_2012	Online:37	OnCampus:53
+Liability Iss in Public Ed_2013	Online:37	OnCampus:69
+Liability Iss in Public Ed_2014	Online:14	OnCampus:26
+Liability Iss in Public Ed_2015	Online:9	OnCampus:15
+Life Writing_2016	Online:0	OnCampus:0
+Literacy & Technology_2012	Online:10	OnCampus:52
+Literacy & Technology_2013	Online:16	OnCampus:24
+Literacy & Technology_2014	Online:34	OnCampus:22
+Literacy & Technology_2015	Online:14	OnCampus:6
+Literature for Young Adults_2015	Online:23	OnCampus:18
+Literature for Young Adults_2016	Online:2	OnCampus:8
+MG for Rehab Professional_2012	Online:42	OnCampus:130
+MG for Rehab Professional_2013	Online:31	OnCampus:119
+MG for Rehab Professional_2014	Online:45	OnCampus:129
+MG for Rehab Professional_2016	Online:53	OnCampus:53
+Management Topics_2016	Online:9	OnCampus:24
+Management Topics_2017	Online:0	OnCampus:0
+Marketing of Info Srvcs_2007	Online:22	OnCampus:0
+Master Composer_2012	Online:13	OnCampus:42
+Master Composer_2013	Online:25	OnCampus:61
+Master Composer_2014	Online:28	OnCampus:36
+Master Composer_2016	Online:1	OnCampus:22
+Med & Psychosoc Aspcts Disab_2013	Online:0	OnCampus:14
+Med & Psychosoc Aspcts Disab_2014	Online:31	OnCampus:9
+Med & Psychosoc Aspcts Disab_2015	Online:29	OnCampus:10
+Med & Psychosoc Aspcts Disab_2016	Online:24	OnCampus:15
+Medical Terminology_2008	Online:88	OnCampus:201
+Medical Terminology_2009	Online:94	OnCampus:228
+Medical Terminology_2010	Online:83	OnCampus:193
+Medical Terminology_2014	Online:95	OnCampus:155
+Medical Terminology_2015	Online:67	OnCampus:197
+Medical Terminology_2016	Online:0	OnCampus:138
+Mental Health Counseling_2012	Online:17	OnCampus:22
+Mental Health Counseling_2013	Online:19	OnCampus:15
+Mental Health Counseling_2014	Online:22	OnCampus:19
+Mental Health Counseling_2015	Online:26	OnCampus:16
+Mental Health Counseling_2016	Online:25	OnCampus:0
+Mentl Hlth & Disability SW_2014	Online:24	OnCampus:23
+Mentl Hlth & Disability SW_2015	Online:41	OnCampus:8
+Meth of Effective TUT_2014	Online:13	OnCampus:15
+Mgmt of Lib & Info Agencs_2006	Online:56	OnCampus:45
+Mgmt of Lib & Info Agencs_2007	Online:49	OnCampus:41
+Mgmt of Lib & Info Agencs_2008	Online:46	OnCampus:56
+Mgmt of Lib & Info Agencs_2010	Online:33	OnCampus:54
+Mgmt of Lib & Info Agencs_2011	Online:76	OnCampus:11
+Mgmt of Lib & Info Agencs_2012	Online:37	OnCampus:46
+Mgmt of Lib & Info Agencs_2013	Online:37	OnCampus:26
+Mgmt of Lib & Info Agencs_2014	Online:56	OnCampus:18
+Mgmt of Lib & Info Agencs_2016	Online:61	OnCampus:6
+Mgt of School Libraries_2007	Online:10	OnCampus:26
+Mgt of School Libraries_2009	Online:27	OnCampus:19
+Microbiology for Allied Health_2015	Online:277	OnCampus:685
+Microcomp Apps 1_2005	Online:26	OnCampus:25
+Microcomp Apps 2_2005	Online:0	OnCampus:3
+Mid Chld/Adoles Ltrcy Mtd_2016	Online:20	OnCampus:3
+Middle Eastern Politics_2014	Online:18	OnCampus:75
+Middle Eastern Politics_2015	Online:19	OnCampus:49
+Middle Eastern Politics_2016	Online:0	OnCampus:0
+Millard Fillmore College Topic_2015	Online:16	OnCampus:20
+Multicultural Counseling_2013	Online:16	OnCampus:30
+Multicultural Counseling_2014	Online:2	OnCampus:37
+Multicultural Counseling_2015	Online:7	OnCampus:29
+Multicultural Counseling_2016	Online:0	OnCampus:37
+Music in Society: Mus & Gender_2012	Online:95	OnCampus:314
+Music in Society: Mus & Gender_2013	Online:112	OnCampus:284
+Music in Society: Mus & Gender_2014	Online:76	OnCampus:268
+Music in Society: Mus & Gender_2015	Online:65	OnCampus:273
+Mysteries_2016	Online:13	OnCampus:29
+Natur/Treat-Alc/Drug Prob_2008	Online:20	OnCampus:19
+Natur/Treat-Alc/Drug Prob_2012	Online:27	OnCampus:34
+Natur/Treat-Alc/Drug Prob_2013	Online:25	OnCampus:45
+Natur/Treat-Alc/Drug Prob_2014	Online:23	OnCampus:45
+Natur/Treat-Alc/Drug Prob_2015	Online:24	OnCampus:40
+Natur/Treat-Alc/Drug Prob_2016	Online:16	OnCampus:18
+Neuroanatomy 1_2015	Online:16	OnCampus:171
+Neuroanatomy 1_2016	Online:10	OnCampus:0
+New Media_2016	Online:1	OnCampus:16
+Novel_2015	Online:0	OnCampus:15
+Nursing as a Profession_2010	Online:46	OnCampus:87
+Nursing as a Profession_2011	Online:49	OnCampus:79
+Nursing as a Profession_2012	Online:51	OnCampus:70
+Nursing as a Profession_2013	Online:54	OnCampus:79
+Nursing as a Profession_2014	Online:53	OnCampus:70
+Nursing as a Profession_2015	Online:56	OnCampus:72
+Nursing as a Profession_2016	Online:36	OnCampus:0
+Nutrition in Practice_2010	Online:115	OnCampus:1381
+Nutrition in Practice_2011	Online:135	OnCampus:1669
+Nutrition in Practice_2012	Online:97	OnCampus:2116
+Nutrition in Practice_2013	Online:174	OnCampus:2139
+Nutrition in Practice_2014	Online:181	OnCampus:2220
+Nutrition in Practice_2015	Online:240	OnCampus:1968
+Nutrition in Practice_2016	Online:137	OnCampus:965
+Operating Systems_2011	Online:2	OnCampus:473
+Optimizat in Engrg Design_2013	Online:2	OnCampus:54
+Org & Admin Rec Sports_2014	Online:105	OnCampus:50
+Org & Admin Rec Sports_2015	Online:78	OnCampus:45
+Org & Admin Rec Sports_2016	Online:3	OnCampus:50
+Org of Recorded Info 2_2015	Online:5	OnCampus:2
+Paralegal Prin & Proced_2005	Online:52	OnCampus:128
+Paralegal Prin & Proced_2006	Online:130	OnCampus:52
+Paralegal Prin & Proced_2007	Online:122	OnCampus:60
+Paralegal Prin & Proced_2008	Online:156	OnCampus:59
+Paralegal Prin & Proced_2009	Online:186	OnCampus:41
+Paralegal Prin & Proced_2010	Online:215	OnCampus:45
+Paralegal Prin & Proced_2011	Online:289	OnCampus:48
+Paralegal Prin & Proced_2012	Online:209	OnCampus:0
+Patho for APN II_2012	Online:34	OnCampus:26
+Patho for APN I_2011	Online:27	OnCampus:22
+Perspectives in Human Biology_2012	Online:100	OnCampus:1125
+Perspectives in Human Biology_2013	Online:97	OnCampus:1068
+Perspectives in Human Biology_2014	Online:93	OnCampus:903
+Perspectives in Human Biology_2015	Online:66	OnCampus:972
+Perspectives in Human Biology_2016	Online:13	OnCampus:678
+Philosophy of Inquiry_2016	Online:1	OnCampus:4
+Poetry_2011	Online:6	OnCampus:63
+Political Communication_2012	Online:17	OnCampus:90
+Politics and Technology_2016	Online:10	OnCampus:0
+Power Elect Smart Grid_2013	Online:10	OnCampus:17
+Power Systems Engineerg 1_2015	Online:0	OnCampus:53
+Power Systems Engineerg 1_2016	Online:0	OnCampus:0
+Prestressed Concrete Design_2011	Online:1	OnCampus:6
+Prin Eng Mngt 2_2016	Online:5	OnCampus:0
+Prin Eng Mngt I_2016	Online:7	OnCampus:0
+Principles of Comm_2012	Online:46	OnCampus:1237
+Principles of Comm_2013	Online:43	OnCampus:1281
+Principles of Persuasion_2010	Online:29	OnCampus:126
+Principles of Persuasion_2011	Online:29	OnCampus:169
+Prncples & Tech of Advertising_2005	Online:20	OnCampus:112
+Prncples & Tech of Advertising_2006	Online:24	OnCampus:161
+Prncples & Tech of Advertising_2007	Online:26	OnCampus:121
+Prncples & Tech of Advertising_2008	Online:25	OnCampus:122
+Prncples & Tech of Advertising_2009	Online:47	OnCampus:115
+Prncples & Tech of Advertising_2010	Online:25	OnCampus:102
+Prncples & Tech of Advertising_2011	Online:27	OnCampus:153
+Prncples & Tech of Advertising_2012	Online:89	OnCampus:232
+Prncples & Tech of Advertising_2013	Online:88	OnCampus:208
+Prncples & Tech of Advertising_2014	Online:104	OnCampus:278
+Prncples & Tech of Advertising_2015	Online:78	OnCampus:246
+Prncples & Tech of Advertising_2016	Online:68	OnCampus:90
+Prod Planning & Control_2015	Online:3	OnCampus:42
+Prod Planning & Control_2016	Online:1	OnCampus:70
+Prof Development Sem_2011	Online:21	OnCampus:13
+Prof Development Sem_2012	Online:70	OnCampus:101
+Prof Development Sem_2013	Online:92	OnCampus:93
+Prof Development Sem_2014	Online:64	OnCampus:135
+Prof Development Sem_2015	Online:57	OnCampus:137
+Prof Development Sem_2016	Online:41	OnCampus:139
+Program Evaluation_2016	Online:22	OnCampus:29
+Programmg for the Web 1_2005	Online:55	OnCampus:12
+Programmg for the Web 1_2006	Online:125	OnCampus:11
+Programmg for the Web 1_2007	Online:134	OnCampus:21
+Programmg for the Web 1_2008	Online:108	OnCampus:44
+Programmg for the Web 1_2013	Online:54	OnCampus:0
+Programming for Digitalart_2013	Online:7	OnCampus:42
+Programming for Digitalart_2014	Online:19	OnCampus:50
+Proj Anal and Design_2005	Online:10	OnCampus:18
+Promoting Quality Health_2012	Online:20	OnCampus:129
+Promoting Quality Health_2013	Online:23	OnCampus:125
+Promoting Quality Health_2014	Online:28	OnCampus:125
+Promoting Quality Health_2015	Online:37	OnCampus:127
+Promoting Quality Health_2016	Online:0	OnCampus:0
+Promotional Writing_2005	Online:25	OnCampus:126
+Promotional Writing_2006	Online:26	OnCampus:93
+Promotional Writing_2007	Online:26	OnCampus:92
+Promotional Writing_2008	Online:24	OnCampus:90
+Promotional Writing_2009	Online:52	OnCampus:86
+Promotional Writing_2010	Online:30	OnCampus:86
+Promotional Writing_2011	Online:30	OnCampus:112
+Promotional Writing_2012	Online:60	OnCampus:131
+Promotional Writing_2013	Online:72	OnCampus:75
+Promotional Writing_2014	Online:60	OnCampus:149
+Promotional Writing_2015	Online:58	OnCampus:57
+Promotional Writing_2016	Online:26	OnCampus:27
+Psych Foundations of Educ_2013	Online:15	OnCampus:29
+Psych Foundations of Educ_2014	Online:20	OnCampus:42
+Psych Foundations of Educ_2015	Online:44	OnCampus:14
+Psych Foundations of Educ_2016	Online:5	OnCampus:0
+Psych Learng & Instr_2016	Online:0	OnCampus:12
+Psycho-Soc Meas&Quest Cnst_2014	Online:1	OnCampus:9
+Psycho-Soc Meas&Quest Cnst_2015	Online:0	OnCampus:7
+Psycho-Soc Meas&Quest Cnst_2016	Online:0	OnCampus:0
+Psychopathology Intrvntns_2012	Online:18	OnCampus:22
+Psychopathology Intrvntns_2013	Online:14	OnCampus:24
+Psychopathology Intrvntns_2014	Online:16	OnCampus:18
+Psychopathology Intrvntns_2015	Online:22	OnCampus:23
+Psychopathology Intrvntns_2016	Online:0	OnCampus:0
+Psychopathology_2005	Online:123	OnCampus:69
+Psychopathology_2006	Online:164	OnCampus:82
+Psychopathology_2007	Online:294	OnCampus:28
+Psychopathology_2008	Online:277	OnCampus:19
+Psychopathology_2009	Online:255	OnCampus:21
+Psychopathology_2010	Online:299	OnCampus:15
+Psychopathology_2011	Online:279	OnCampus:18
+Psychopathology_2013	Online:244	OnCampus:32
+Psychopathology_2014	Online:266	OnCampus:17
+Psychopathology_2015	Online:275	OnCampus:23
+Psychopathology_2016	Online:157	OnCampus:0
+Pub Hlth Popultn Wellbng_2013	Online:72	OnCampus:72
+Pub Hlth Popultn Wellbng_2014	Online:67	OnCampus:67
+Pub Hlth Popultn Wellbng_2015	Online:71	OnCampus:71
+Pub Hlth Popultn Wellbng_2016	Online:0	OnCampus:0
+Public Health Nursing_2013	Online:11	OnCampus:126
+Public Health Nursing_2014	Online:24	OnCampus:125
+Public Health Nursing_2015	Online:24	OnCampus:127
+Public Health Nursing_2016	Online:38	OnCampus:0
+Public Health Popultn Wellbng_2013	Online:66	OnCampus:66
+Public Health Popultn Wellbng_2014	Online:63	OnCampus:63
+Public Health Popultn Wellbng_2015	Online:118	OnCampus:28
+Public Relations_2005	Online:20	OnCampus:164
+Public Relations_2006	Online:56	OnCampus:44
+Public Relations_2007	Online:53	OnCampus:90
+Public Relations_2008	Online:52	OnCampus:91
+Public Relations_2009	Online:77	OnCampus:89
+Public Relations_2010	Online:87	OnCampus:82
+Public Relations_2011	Online:109	OnCampus:92
+Public Relations_2012	Online:131	OnCampus:195
+Public Relations_2013	Online:134	OnCampus:174
+Public Relations_2014	Online:113	OnCampus:168
+Public Relations_2015	Online:103	OnCampus:158
+Public Relations_2016	Online:64	OnCampus:25
+Qualitative Tech for Education_2014	Online:15	OnCampus:16
+Qualitative Tech for Education_2015	Online:12	OnCampus:45
+Qualitative Tech for Education_2016	Online:15	OnCampus:15
+Quality Assurance_2014	Online:14	OnCampus:90
+Quality Assurance_2015	Online:5	OnCampus:65
+Quality Assurance_2016	Online:2	OnCampus:102
+Records Management_2014	Online:20	OnCampus:7
+Records Management_2015	Online:18	OnCampus:2
+Reference Srcs & Svcs_2005	Online:69	OnCampus:75
+Reference Srcs & Svcs_2006	Online:63	OnCampus:103
+Reference Srcs & Svcs_2007	Online:38	OnCampus:100
+Reference Srcs & Svcs_2009	Online:65	OnCampus:91
+Reference Srcs & Svcs_2010	Online:29	OnCampus:93
+Reference Srcs & Svcs_2011	Online:20	OnCampus:114
+Reference Srcs & Svcs_2012	Online:65	OnCampus:59
+Reference Srcs & Svcs_2013	Online:84	OnCampus:15
+Reference Srcs & Svcs_2014	Online:82	OnCampus:9
+Reference Srcs & Svcs_2015	Online:92	OnCampus:13
+Reference Srcs & Svcs_2016	Online:26	OnCampus:0
+Rehab Foundations_2013	Online:19	OnCampus:11
+Rehab Foundations_2014	Online:39	OnCampus:10
+Rehab Foundations_2015	Online:28	OnCampus:13
+Rehab Foundations_2016	Online:0	OnCampus:0
+Ren Distbtd Gen & Storage_2016	Online:11	OnCampus:23
+Res Meth Psychology_2014	Online:23	OnCampus:121
+Res Meth Psychology_2015	Online:29	OnCampus:198
+Res Meth Psychology_2016	Online:4	OnCampus:71
+Research & Library Skills_2014	Online:50	OnCampus:53
+Research & Library Skills_2015	Online:99	OnCampus:48
+Research & Library Skills_2016	Online:50	OnCampus:25
+Research Ethics_2015	Online:14	OnCampus:24
+Research Ethics_2016	Online:12	OnCampus:0
+Research Methods_2014	Online:45	OnCampus:268
+Research Methods_2015	Online:70	OnCampus:240
+Research Methods_2016	Online:7	OnCampus:72
+Research Practicum/Ph.D_2015	Online:1	OnCampus:28
+Research Practicum/Ph.D_2016	Online:0	OnCampus:12
+Resrces & Srvcs Yng Adult_2010	Online:24	OnCampus:50
+Resrces & Srvcs Yng Adult_2011	Online:29	OnCampus:51
+Resrces & Srvcs Yng Adult_2012	Online:67	OnCampus:13
+Resrces & Srvcs for Child_2007	Online:26	OnCampus:25
+Resrces & Srvcs for Child_2008	Online:28	OnCampus:49
+Resrces & Srvcs for Child_2009	Online:26	OnCampus:30
+Resrces & Srvcs for Child_2010	Online:61	OnCampus:12
+Resrces & Srvcs for Child_2012	Online:32	OnCampus:8
+Rsrch Method Fr Prac Prof_2010	Online:48	OnCampus:49
+School Media Ctr Prac_2013	Online:33	OnCampus:45
+Sci Curr: Current Apprchs_2012	Online:27	OnCampus:16
+Sci Curr: Current Apprchs_2016	Online:17	OnCampus:0
+Science of Human Movement_2015	Online:191	OnCampus:191
+Science of Human Movement_2016	Online:194	OnCampus:194
+Scientific Methods in SW_2011	Online:25	OnCampus:136
+Scientific Methods in SW_2012	Online:23	OnCampus:136
+Scientific Methods in SW_2013	Online:27	OnCampus:160
+Scientific Methods in SW_2014	Online:26	OnCampus:158
+Scientific Methods in SW_2015	Online:24	OnCampus:189
+Scientific Methods in SW_2016	Online:0	OnCampus:10
+Scientific Writing_2011	Online:4	OnCampus:7
+Scientific Writing_2012	Online:15	OnCampus:43
+Sel Acq Mgmt Non Book Mat_2006	Online:47	OnCampus:37
+Sel Acq Mgmt Non Book Mat_2014	Online:18	OnCampus:8
+Sel Top_2013	Online:2	OnCampus:15
+Sel Top_2015	Online:13	OnCampus:16
+Sel Topics_2006	Online:17	OnCampus:316
+Sel Topics_2007	Online:23	OnCampus:381
+Sel Topics_2008	Online:24	OnCampus:441
+Sel Topics_2011	Online:8	OnCampus:220
+Sel Topics_2012	Online:17	OnCampus:164
+Sel Topics_2013	Online:10	OnCampus:152
+Sel Topics_2014	Online:22	OnCampus:141
+Sel Topics_2015	Online:80	OnCampus:77
+Sel Topics_2016	Online:22	OnCampus:36
+Selected Topic_2011	Online:4	OnCampus:20
+Selected Topic_2013	Online:12	OnCampus:87
+Selected Topic_2014	Online:32	OnCampus:44
+Selected Topic_2015	Online:34	OnCampus:51
+Selected Topic_2016	Online:0	OnCampus:0
+Selected Topics_2007	Online:13	OnCampus:27
+Selected Topics_2012	Online:25	OnCampus:26
+Selected Topics_2013	Online:20	OnCampus:60
+Selected Topics_2014	Online:17	OnCampus:36
+Selected Topics_2015	Online:16	OnCampus:23
+Selected Topics_2016	Online:0	OnCampus:32
+Seminar Supreme Court_2015	Online:22	OnCampus:43
+Seminar in Grantsmanship_2012	Online:7	OnCampus:6
+Senior Seminar_2006	Online:390	OnCampus:157
+Sensory Proces & Perceptn_2014	Online:25	OnCampus:182
+Sensory Proces & Perceptn_2015	Online:31	OnCampus:191
+Sensory Proces & Perceptn_2016	Online:34	OnCampus:0
+Signals and Systems_2006	Online:5	OnCampus:327
+Signals and Systems_2007	Online:0	OnCampus:248
+Signals and Systems_2008	Online:0	OnCampus:234
+Signals and Systems_2009	Online:0	OnCampus:235
+Signals and Systems_2010	Online:0	OnCampus:217
+Signals and Systems_2011	Online:0	OnCampus:257
+Signals and Systems_2012	Online:0	OnCampus:208
+Six Sigma Quality_2014	Online:13	OnCampus:79
+Six Sigma Quality_2015	Online:12	OnCampus:96
+Six Sigma Quality_2016	Online:1	OnCampus:0
+Skill Devel in Human Svcs_2016	Online:9	OnCampus:0
+Smart Materials_2013	Online:4	OnCampus:39
+Smart Materials_2014	Online:3	OnCampus:47
+Smc Field Experience_2011	Online:16	OnCampus:23
+Soc & Eth Values in Med_2010	Online:22	OnCampus:671
+Soc & Eth Values in Med_2011	Online:22	OnCampus:516
+Soc & Eth Values in Med_2012	Online:69	OnCampus:687
+Soc & Eth Values in Med_2013	Online:40	OnCampus:658
+Soc & Eth Values in Med_2014	Online:48	OnCampus:630
+Soc & Eth Values in Med_2015	Online:78	OnCampus:590
+Soc & Eth Values in Med_2016	Online:48	OnCampus:266
+Soc Action Comm Change_2015	Online:14	OnCampus:19
+Soc Action Comm Change_2016	Online:0	OnCampus:0
+Soc. Serv Child/Youth/Fam_2016	Online:23	OnCampus:0
+Social Context/Human Bio_2012	Online:47	OnCampus:61
+Social Context/Human Bio_2013	Online:81	OnCampus:37
+Social Psychology_2016	Online:6	OnCampus:381
+Sociology of Education_2013	Online:27	OnCampus:131
+Sociology of Education_2014	Online:86	OnCampus:91
+Sociology of Education_2015	Online:49	OnCampus:182
+Sociology of Education_2016	Online:23	OnCampus:76
+Sp Tpcs:Micro Applics_2007	Online:0	OnCampus:0
+Spec Top in Interper Comm_2008	Online:50	OnCampus:50
+Spec Top in Interper Comm_2010	Online:49	OnCampus:106
+Spec Top in Mass Comm_2014	Online:62	OnCampus:21
+Spec Top in Mass Comm_2015	Online:66	OnCampus:50
+Spec Top in Mass Comm_2016	Online:24	OnCampus:0
+Special Topics 3_2015	Online:20	OnCampus:45
+Special Topics 3_2016	Online:14	OnCampus:9
+Special Topics_2006	Online:68	OnCampus:2232
+Special Topics_2007	Online:51	OnCampus:2669
+Special Topics_2008	Online:9	OnCampus:2668
+Special Topics_2009	Online:0	OnCampus:2733
+Special Topics_2010	Online:30	OnCampus:3458
+Special Topics_2011	Online:135	OnCampus:3068
+Special Topics_2012	Online:249	OnCampus:3018
+Special Topics_2013	Online:223	OnCampus:2860
+Special Topics_2014	Online:211	OnCampus:3083
+Special Topics_2015	Online:522	OnCampus:3283
+Special Topics_2016	Online:266	OnCampus:1432
+Special Topics_2017	Online:0	OnCampus:0
+Standards & Curriculum_2006	Online:6	OnCampus:0
+Stat Meth Ed Inference 1_2014	Online:22	OnCampus:80
+Stat Meth Ed Inference 1_2015	Online:38	OnCampus:68
+Stat Meth Ed Inference 1_2016	Online:0	OnCampus:0
+State of Nursing Science_2015	Online:31	OnCampus:22
+State of Nursing Science_2016	Online:17	OnCampus:0
+Stochastic Methods_2012	Online:2	OnCampus:32
+Stochastic Methods_2013	Online:0	OnCampus:36
+Stochastic Methods_2014	Online:0	OnCampus:28
+Stochastic Methods_2015	Online:1	OnCampus:34
+Stochastic Methods_2016	Online:0	OnCampus:0
+Supervised Teaching_2013	Online:5	OnCampus:409
+Supervised Teaching_2014	Online:4	OnCampus:360
+Supervised Teaching_2015	Online:4	OnCampus:350
+Supervised Teaching_2016	Online:1	OnCampus:189
+Survey Egypt to Renaiss_2015	Online:48	OnCampus:420
+Survey Egypt to Renaiss_2016	Online:8	OnCampus:42
+Survey of African Studies_2015	Online:15	OnCampus:23
+Survey of African Studies_2016	Online:0	OnCampus:0
+Survey of Mass Communic_2012	Online:21	OnCampus:536
+Survey of Mass Communic_2014	Online:44	OnCampus:526
+Survey of Mass Communic_2015	Online:26	OnCampus:483
+Survy Ital Renais to Cntm_2014	Online:17	OnCampus:332
+Survy Ital Renais to Cntm_2015	Online:44	OnCampus:400
+Survy Ital Renais to Cntm_2016	Online:2	OnCampus:390
+Tchng Exceptional Learner_2012	Online:30	OnCampus:86
+Tchng Exceptional Learner_2013	Online:70	OnCampus:32
+Tchng Exceptional Learner_2014	Online:43	OnCampus:44
+Tchng Exceptional Learner_2015	Online:59	OnCampus:40
+Tchng Exceptional Learner_2016	Online:38	OnCampus:9
+Tchng Foreign Lang Gr 1-6_2012	Online:12	OnCampus:14
+Technical Communication_2011	Online:11	OnCampus:18
+Technologies/L2 Classrms_2011	Online:41	OnCampus:22
+Tests and Measurements_2012	Online:18	OnCampus:32
+Tests and Measurements_2013	Online:28	OnCampus:33
+Tests and Measurements_2014	Online:29	OnCampus:25
+Tests and Measurements_2015	Online:19	OnCampus:19
+Tests and Measurements_2016	Online:0	OnCampus:18
+Theo of Human Beh & Dev_2012	Online:20	OnCampus:135
+Theo of Human Beh & Dev_2013	Online:26	OnCampus:157
+Theo of Human Beh & Dev_2014	Online:25	OnCampus:156
+Theo of Human Beh & Dev_2015	Online:34	OnCampus:176
+Theo of Human Beh & Dev_2016	Online:0	OnCampus:0
+Theo of Org Behv & Dev_2014	Online:23	OnCampus:145
+Theo of Org Behv & Dev_2015	Online:23	OnCampus:144
+Theo of Org Behv & Dev_2016	Online:15	OnCampus:159
+Theory of Music Non-Major_2014	Online:30	OnCampus:323
+Theory of Music Non-Major_2015	Online:62	OnCampus:467
+Theory of Music Non-Major_2016	Online:51	OnCampus:309
+Thermodynamics 1_2015	Online:74	OnCampus:594
+Thermodynamics 1_2016	Online:0	OnCampus:8
+Top:_2012	Online:15	OnCampus:54
+Top_2014	Online:0	OnCampus:14
+Topics Health Care Mgt_2015	Online:4	OnCampus:5
+Topics Health Care Mgt_2016	Online:0	OnCampus:0
+Topics_2006	Online:11	OnCampus:945
+Topics_2007	Online:13	OnCampus:908
+Topics_2008	Online:0	OnCampus:882
+Topics_2009	Online:0	OnCampus:1178
+Topics_2010	Online:73	OnCampus:1064
+Topics_2011	Online:14	OnCampus:580
+Topics_2012	Online:9	OnCampus:543
+Topics_2013	Online:40	OnCampus:545
+Topics_2014	Online:52	OnCampus:631
+Topics_2015	Online:141	OnCampus:512
+Topics_2016	Online:113	OnCampus:284
+Trauma and Human Rights_2011	Online:49	OnCampus:133
+Trauma and Human Rights_2012	Online:47	OnCampus:140
+Trauma and Human Rights_2013	Online:37	OnCampus:168
+Trauma and Human Rights_2014	Online:28	OnCampus:165
+Trauma and Human Rights_2015	Online:25	OnCampus:184
+Trauma and Human Rights_2016	Online:0	OnCampus:13
+Understanding Music_2014	Online:9	OnCampus:312
+Understanding Music_2015	Online:26	OnCampus:452
+Understanding Music_2016	Online:6	OnCampus:320
+Understndng Stat Resrch_2012	Online:20	OnCampus:102
+Understndng Stat Resrch_2013	Online:27	OnCampus:77
+Understndng Stat Resrch_2014	Online:100	OnCampus:54
+Understndng Stat Resrch_2015	Online:120	OnCampus:44
+Understndng Stat Resrch_2016	Online:29	OnCampus:5
+Urban & Environ Planning_2015	Online:194	OnCampus:0
+User Education_2006	Online:36	OnCampus:17
+User Education_2014	Online:27	OnCampus:16
+User Education_2016	Online:17	OnCampus:4
+Violence and the Family_2016	Online:16	OnCampus:36
+Visual Basic_2005	Online:24	OnCampus:67
+Visual Basic_2006	Online:57	OnCampus:22
+Visual Basic_2007	Online:43	OnCampus:13
+Visual Basic_2008	Online:53	OnCampus:0
+Vocatnl Placement Process_2012	Online:19	OnCampus:3
+Vocatnl Placement Process_2013	Online:28	OnCampus:12
+Vocatnl Placement Process_2014	Online:31	OnCampus:12
+Vocatnl Placement Process_2015	Online:22	OnCampus:9
+Vocatnl Placement Process_2016	Online:3	OnCampus:0
+War & Int'l Security_2014	Online:24	OnCampus:50
+War & Int'l Security_2015	Online:21	OnCampus:43
+Work Physiology_2013	Online:1	OnCampus:77
+Work Physiology_2014	Online:8	OnCampus:96
+Work Physiology_2015	Online:9	OnCampus:93
+Work Physiology_2016	Online:1	OnCampus:0
+World Civilization 1_2012	Online:284	OnCampus:6916
+World Civilization 1_2013	Online:284	OnCampus:7324
+World Civilization 1_2014	Online:574	OnCampus:6852
+World Civilization 1_2015	Online:541	OnCampus:7168
+World Civilization 1_2016	Online:30	OnCampus:1546
+World Literature_2014	Online:19	OnCampus:28
+Writing 1_2010	Online:24	OnCampus:3790
+Writing 1_2011	Online:143	OnCampus:3752
+Writing 1_2012	Online:203	OnCampus:3997
+Writing 1_2013	Online:44	OnCampus:4861
+Writing 1_2014	Online:211	OnCampus:5096
+Writing 1_2015	Online:318	OnCampus:5093
+Writing 1_2016	Online:91	OnCampus:2327
+Writing 2_2016	Online:21	OnCampus:5

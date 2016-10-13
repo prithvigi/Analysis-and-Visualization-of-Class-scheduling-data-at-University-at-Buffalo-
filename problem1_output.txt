@@ -1,0 +1,20 @@
+154409	General Chemistry
+139710	World Civilization 1
+121540	World Civilization 2
+103194	Writing 1
+70018	Introductory Psychology
+63553	College Physics
+62191	Intro to Macroeconomics
+56938	Intro to Microeconomics
+56469	Special Topics
+55166	College Calculus 1
+50689	Surv Calculus & Appl 1
+48160	College Calculus 2
+46543	Psychological Statistics
+43908	Evolutionary Biology
+43279	Intro to Financial Accounting
+43117	Intro to Stats for Analytics
+42912	Organic Chemistry I
+40822	Cell Biology
+39215	Human Nutrition
+38541	Gen Chem for Engineers
